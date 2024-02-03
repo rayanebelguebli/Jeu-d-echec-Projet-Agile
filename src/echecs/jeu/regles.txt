@@ -1,0 +1,18 @@
+Dans le jeu réussite les règles sont simples : gagner la partie en capturant le roi adverse.
+
+Pour ce faire, il y a deux possibilités : lui faire perdre 3 vies ou le capturer.
+
+Pour le capturer il vous suffit de mettre un pion à vous sur sa case.
+Pour lui faire perdre 3 vies, il suffit de le mettre en échec pendant 3 tours.
+
+Pour mettre en échec le roi adverse il vous suffit qu’un de vos pions puisse manger le roi adverse.
+
+Dans “réussite” il existe 6 types de pions : 
+
+- Le pion simple (il bouge de 1 ou 2 cases vers l’avant, il ne peut pas sauter au-dessus des autres pions. Le pion simple peu manger d’autre pion si et seulement si il sont dans sa diagonale)
+- la tour (elle peut se déplacer vers l’avant et sur le côté tout le long du plateau, elle ne peut pas sauter au-dessus des autres pions. Pour manger un autre pion il vous suffit d’aller sur sa casse)
+- le fou (il peut se déplacer seulement dans ces diagonales tout le long du plateau, il ne peut pas sauter au-dessus des autres pions. Pour manger un autre pion il vous suffit d’aller sur sa casse)
+- le cavalier (il se déplace de façon spécial, sa façon de se déplacer est en forme de L, il fait deux cases droite puis une casse sur le côté, il peut également sauter au dessus des autres pions. Pour manger un autre pion il vous suffit d’aller sur sa casse)
+- la reine (elle peut aller ou elle veut elle ne peut juste pas sauter au dessus des autres pions. Pour manger un autre pion il vous suffit d’aller sur sa casse)
+- le roi (il peut se déplacer dans tous les sens sur une case de distance, il ne peut pas sauter au-dessus des autres pions).
+
